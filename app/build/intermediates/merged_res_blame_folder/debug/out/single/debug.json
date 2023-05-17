@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_motorcycle.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/motorcycle.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/layout_register.xml.flat",
+        "source": "com.example.delihub.app-main-37:/layout/register.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/layout_activity_maps.xml.flat",
+        "source": "com.example.delihub.app-main-37:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_uber.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/uber.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_splash.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/splash.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_tahmeed.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/tahmeed.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.delihub.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_eats.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/eats.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.delihub.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/layout_profilelogin.xml.flat",
+        "source": "com.example.delihub.app-main-37:/layout/profilelogin.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_background.jpg.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/background.jpg"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_backg.jpg.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/backg.jpg"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.delihub.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/layout_fragment_map_.xml.flat",
+        "source": "com.example.delihub.app-main-37:/layout/fragment_map_.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/layout_categories_holder.xml.flat",
+        "source": "com.example.delihub.app-main-37:/layout/categories_holder.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_menu.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/menu.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_glovo.jpg.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/glovo.jpg"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_splashs.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/splashs.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_easycoach.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/easycoach.png"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.delihub.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.delihub.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/layout_deli_holder.xml.flat",
+        "source": "com.example.delihub.app-main-37:/layout/deli_holder.xml"
+    },
+    {
+        "merged": "com.example.delihub.app-merged_res-35:/drawable-v24_posta.png.flat",
+        "source": "com.example.delihub.app-main-37:/drawable-v24/posta.png"
+    }
+]

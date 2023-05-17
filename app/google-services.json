@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021566176391",
+    "project_id": "deliloginandregister",
+    "storage_bucket": "deliloginandregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021566176391:android:225baaaec095750ffafc22",
+        "android_client_info": {
+          "package_name": "com.example.delihub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021566176391-64i2qafmc9fv5n0t4676ef2mq0hs7nlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9tev39hHrCZxUxWyUCFHHKxPMCSklFAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021566176391-64i2qafmc9fv5n0t4676ef2mq0hs7nlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

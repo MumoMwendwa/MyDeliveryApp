@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.delihub.app-mergeDebugResources-33:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mwend\\.gradle\\caches\\transforms-3\\eb5526f8b4a84334feb5e47629cfe3d4\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}
